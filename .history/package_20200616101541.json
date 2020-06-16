@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ohdaveed/portfolio",
   "repository": "github:ohdaveed/portfolio",
   "license": "MIT",
-  "author": "David Arrizon <arrizon.david@gmail.com>",
+  "author": "Matthias Kretschmann <m@kretschmann.io>",
   "scripts": {
     "start": "gatsby develop --host 0.0.0.0 -p 8080",
     "ssr": "npm run build && serve -s public/",

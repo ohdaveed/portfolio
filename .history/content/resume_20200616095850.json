@@ -1,27 +1,22 @@
 {
   "basics": {
     "name": "David Arrizon",
-    "label": "Full-Stack Developer",
+    "label": "Designer & Developer",
     "picture": "../src/images/avatar.jpg",
     "email": "arrizon.david@gmail.com",
-    "website": "https://google.com",
+    "website": "https://matthiaskretschmann.com",
     "summary": "",
     "profiles": [
 
       {
         "network": "Twitter",
-        "username": "ohdaveed",
+        "username": "kremalicious",
         "url": "https://twitter.com/ohdaveed"
       },
       {
         "network": "GitHub",
-        "username": "ohdaveed",
+        "username": "kremalicious",
         "url": "https://github.com/ohdaveed"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "darrizon",
-        "url": "https://linkedin.com/in/darrizon"
       }
     ],
     "location": {
@@ -156,7 +151,23 @@
     }
   ],
   "skills": [
-
+    {
+      "name": "Design",
+      "level": "Master",
+      "keywords": [
+        "Product Design",
+        "Service Design",
+        "Interface Design",
+        "User Experience Design",
+        "Communication Design",
+        "Interaction Design",
+        "Information Architecture",
+        "Icon Design",
+        "Web Design",
+        "Typography",
+        "Design management"
+      ]
+    },
     {
       "name": "Web Development",
       "level": "Master",
@@ -167,10 +178,13 @@
         "Node.js",
         "npm ecosystem",
         "SASS/SCSS",
-
+        "Less",
+        "Stylus",
+        "Gulp",
         "Gatsby",
         "React",
-        "Styled Components"
+        "Styled Components",
+        "JAMstack"
       ]
     },
     {
@@ -180,8 +194,16 @@
         "Git",
         "GitHub",
         "Bash",
-        "UNIX"
+        "UNIX",
+        "Agile: Kanban & Scrum",
+        "Prototyping",
+        "Incremental"
       ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": ["AWS", "Now", "Serverless", "Cloudflare", "NGINX", "Apache"]
     }
   ],
   "languages": [

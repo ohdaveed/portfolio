@@ -51,7 +51,6 @@ const Icon = memo(({ name, ...props }) => {
     Image,
     Mail,
     MapPin,
-    Linkedin,
     Globe,
     Briefcase,
     Award,

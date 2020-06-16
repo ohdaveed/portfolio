@@ -2,10 +2,10 @@
   "name": "@ohdaveed/portfolio",
   "description": "Portfolio thingy, built with Gatsby",
   "version": "0.1.0",
-  "homepage": "https://github.com/ohdaveed/portfolio",
+  "homepage": "",
   "repository": "github:ohdaveed/portfolio",
   "license": "MIT",
-  "author": "David Arrizon <arrizon.david@gmail.com>",
+  "author": "Matthias Kretschmann <m@kretschmann.io>",
   "scripts": {
     "start": "gatsby develop --host 0.0.0.0 -p 8080",
     "ssr": "npm run build && serve -s public/",
